@@ -4,4 +4,6 @@
 
 Repository démo pour montrer l'utilisation de git.
 
-##Pourquoi utiliser git
+##Pourquoi utiliser git:
+
+Parce que meme si c'est compliqué, ca simplifie la vie
